@@ -165,8 +165,5 @@ The goal isn't just a report — it's a decision-making tool that turns "we thin
 
 **Emmanuel Sey Williams**
 📧 williamsemmanuel7382@gmail.com
-🔗 GitHub: [Add your GitHub link here]
-🔗 LinkedIn: [Add your LinkedIn link here]
-📅 2026
 
 📊 **Project Status:** Complete
